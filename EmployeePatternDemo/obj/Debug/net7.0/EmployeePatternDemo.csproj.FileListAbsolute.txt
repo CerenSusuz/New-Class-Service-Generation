@@ -1,0 +1,14 @@
+C:\Users\Ceren_Susuz\Documents\NET\Projects\EmployeeTypePatternDemo\EmployeePatternDemo\bin\Debug\net7.0\EmployeePatternDemo.exe
+C:\Users\Ceren_Susuz\Documents\NET\Projects\EmployeeTypePatternDemo\EmployeePatternDemo\bin\Debug\net7.0\EmployeePatternDemo.deps.json
+C:\Users\Ceren_Susuz\Documents\NET\Projects\EmployeeTypePatternDemo\EmployeePatternDemo\bin\Debug\net7.0\EmployeePatternDemo.runtimeconfig.json
+C:\Users\Ceren_Susuz\Documents\NET\Projects\EmployeeTypePatternDemo\EmployeePatternDemo\bin\Debug\net7.0\EmployeePatternDemo.dll
+C:\Users\Ceren_Susuz\Documents\NET\Projects\EmployeeTypePatternDemo\EmployeePatternDemo\bin\Debug\net7.0\EmployeePatternDemo.pdb
+C:\Users\Ceren_Susuz\Documents\NET\Projects\EmployeeTypePatternDemo\EmployeePatternDemo\obj\Debug\net7.0\EmployeePatternDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ceren_Susuz\Documents\NET\Projects\EmployeeTypePatternDemo\EmployeePatternDemo\obj\Debug\net7.0\EmployeePatternDemo.AssemblyInfoInputs.cache
+C:\Users\Ceren_Susuz\Documents\NET\Projects\EmployeeTypePatternDemo\EmployeePatternDemo\obj\Debug\net7.0\EmployeePatternDemo.AssemblyInfo.cs
+C:\Users\Ceren_Susuz\Documents\NET\Projects\EmployeeTypePatternDemo\EmployeePatternDemo\obj\Debug\net7.0\EmployeePatternDemo.csproj.CoreCompileInputs.cache
+C:\Users\Ceren_Susuz\Documents\NET\Projects\EmployeeTypePatternDemo\EmployeePatternDemo\obj\Debug\net7.0\EmployeePatternDemo.dll
+C:\Users\Ceren_Susuz\Documents\NET\Projects\EmployeeTypePatternDemo\EmployeePatternDemo\obj\Debug\net7.0\refint\EmployeePatternDemo.dll
+C:\Users\Ceren_Susuz\Documents\NET\Projects\EmployeeTypePatternDemo\EmployeePatternDemo\obj\Debug\net7.0\EmployeePatternDemo.pdb
+C:\Users\Ceren_Susuz\Documents\NET\Projects\EmployeeTypePatternDemo\EmployeePatternDemo\obj\Debug\net7.0\EmployeePatternDemo.genruntimeconfig.cache
+C:\Users\Ceren_Susuz\Documents\NET\Projects\EmployeeTypePatternDemo\EmployeePatternDemo\obj\Debug\net7.0\ref\EmployeePatternDemo.dll
